@@ -1,9 +1,11 @@
 # Hi, I'm Reza Koohpeyma
 
-I'm a frontend developer based in Kerman, Iran.
+a frontend developer from Iran.
 
-I work mostly with JavaScript and TypeScript, using frameworks like React and Next.js to build things that (usually) work and (hopefully) look good too.
+I work with React and Next.js, coding in JavaScript and TypeScript.
+I try to write code that works well and is clean.
 
+Although I’m still early in my career, I’m learning every day and trying to improve.
 
 ---
 
