@@ -4,7 +4,6 @@ I'm a frontend developer based in Kerman, Iran.
 
 I work mostly with JavaScript and TypeScript, using frameworks like React and Next.js to build things that (usually) work and (hopefully) look good too.
 
-One of my personal projects is called **danobin** — it's been fun building it.
 
 ---
 
