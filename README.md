@@ -2,20 +2,33 @@
 
 Frontend Engineer
 
-Building web applications with Next.js, React, and TypeScript.
+Building scalable web applications with Next.js and TypeScript.
 
-### Tech
+## Tech Stack
 
-Next.js · React · TypeScript · Tailwind CSS · shadcn/ui · TanStack Query · Zustand
+* Next.js
+* React
+* TypeScript
+* Tailwind CSS
+* shadcn/ui
+* TanStack Query
+* Zustand
 
-### Focus
+## Dev Tools
+
+* Git
+* Cursor
+* docker 
+
+## Focus
 
 Frontend Architecture • UI Engineering • Product Development
 
-### Goal
+## Goal
 
 Becoming a Full Stack Engineer
 
-### Links
+## Connect
 
-LinkedIn • Instagram • Telegram
+* LinkedIn: https://linkedin.com/in/re_yea
+* Telegram: https://t.me/re_yea
