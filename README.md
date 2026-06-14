@@ -30,5 +30,5 @@ Becoming a Full Stack Engineer
 
 ## Connect
 
-* LinkedIn: https://linkedin.com/in/re_yea
+* LinkedIn: [https://linkedin.com/in/re_yea](https://www.linkedin.com/in/reza-kouhpeima-0891aa37b/)
 * Telegram: https://t.me/re_yea
