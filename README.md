@@ -18,7 +18,7 @@ Building scalable web applications with Next.js and TypeScript.
 
 * Git
 * Cursor
-* docker 
+* Docker 
 
 ## Focus
 
