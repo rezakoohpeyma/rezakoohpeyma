@@ -11,7 +11,7 @@ Building scalable web applications with Next.js and TypeScript.
 * TypeScript
 * Tailwind CSS
 * shadcn/ui
-* TanStack Query
+* TanStack
 * Zustand
 
 ## Dev Tools
